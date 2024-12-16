@@ -20,7 +20,7 @@ _scene 1:_ The Beginnings of a Quest Determined to pursue his love, Rufus faces 
 
 The journey begins. What will Rufus choose?
 
-- -
+- - - -
 
 ### Scenario 2: The Taverne
 

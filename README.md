@@ -1,4 +1,4 @@
-# Rufus
+# Rufus (the beggar)
 
 Text based game console application written in c++
 
@@ -20,7 +20,7 @@ _scene 1:_ The Beginnings of a Quest Determined to pursue his love, Rufus faces 
 
 The journey begins. What will Rufus choose?
 
-- -
+---
 
 ### Scenario 2: The Taverne
 
@@ -35,5 +35,55 @@ Rufus knows he must proceed carefully in this unsettling place. He has three opt
 2.  Speak with the Drunk Stranger: The lonely customer in the corner might have a tale or a clue to help Rufus in his quest.
 
 3.  Leave the Taverne: This place feels dangerous and unwelcoming. Maybe it's best to seek help elsewhere.
+
+What will Rufus choose next?
+
+---
+
+### Scenario 2.1: The Barkeeper
+
+Rufus, mustering all his courage, approached the barkeeper. The man behind the counter was as rude and ugly as his appearance suggested, and the smell emanating from him was enough to make anyone's eyes water.
+
+"What do you want, beggar?" the barkeeper growled, his voice as unfriendly as his demeanor.
+
+"Please, sir," Rufus began hesitantly, "I'm looking for any information that could help me get closer to Princess Isabella."
+
+The barkeeper's eyes narrowed. "Information costs money, and you look like you don't have two coins to rub together."
+
+Rufus's heart sank. He had hoped for some kindness, but it was clear that this man wouldn't help him without payment. With no money in his pockets, Rufus was forced to consider his next move.
+
+He had three choices:
+
+1. Speak with the Drunk Stranger: The lonely customer in the corner might have a tale or a clue to help Rufus in his quest.
+
+2. Leave the Taverne: This place feels dangerous and unwelcoming. Maybe it's best to seek help elsewhere.
+
+3. Go and Search for Money: Rufus needs to find some money to buy a drink and get the information he needs.
+
+What will Rufus choose next?
+
+---
+
+### Scenario 2.2: The Drunk Stranger
+
+Rufus, feeling both curiosity and caution, approached the lone figure in the darkest corner of the taverne. The stranger's head was hidden beneath a dark hood, and his face was obscured by shadows. As Rufus drew closer, he could hear the man muttering to himself, his words slurred and soaked in melancholy.
+
+"...Love... light... everyone... love is light... everyone is light... everyone is love..."
+
+Mustering his courage, Rufus spoke softly, "Hallo."
+
+The stranger's head lifted slightly, revealing a glint of eyes beneath the hood. He turned towards Rufus, his voice gravelly and tinged with sorrow, "Who goes there? What do you want?"
+
+Rufus hesitated, but then decided to be honest, "I am Rufus. I'm in love with Princess Isabella and I'm seeking help to win her heart."
+
+The stranger let out a bitter laugh, "Love, you say? A fool's errand, but maybe... just maybe... I can help you. My ale is empty. If you get me another drink, I’ll tell you a secret."
+
+Rufus had to decide how to respond. He had three options:
+
+1. Go and Search for Money: Rufus needs to find some money to buy a drink and get the information he needs.
+
+2. Punch the Stranger in the Face: Feeling frustrated and desperate, Rufus could resort to violence, though this might have consequences.
+
+3. Leave the Taverne: If Rufus felt uneasy about the situation, he could choose to thank the stranger and leave, searching for help elsewhere.
 
 What will Rufus choose next?

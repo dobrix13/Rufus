@@ -2,6 +2,8 @@
 
 Text based game console application written in c++
 
+---
+
 ### scenario 1.0: Rufus (The Beggar's Quest)
 
 Introduction: Long, long, and longer time ago in a far, far, very far land, there lived a beggar named Rufus. He resided just outside the kingdom, in the woods, in a very poor wooden cabin. Despite his ragged clothes and humble life, Rufus had a heart full of dreams.
@@ -100,7 +102,9 @@ The dwarfs explain their terms to Rufus, offering him a chance to become wealthy
 
 3. Kill the Dwarfs and Steal the Gold: Tempted by immediate riches, Rufus considers betraying the dwarfs and taking their gold by force.
 
-## What will Rufus choose next?
+What will Rufus choose next?
+
+---
 
 ### Scenario 2.2.2: The Drunk Stranger (Continued)
 

@@ -87,3 +87,34 @@ Rufus had to decide how to respond. He had three options:
 3. Leave the Taverne: If Rufus felt uneasy about the situation, he could choose to thank the stranger and leave, searching for help elsewhere.
 
 What will Rufus choose next?
+
+---
+
+### Scenario 2.2.1: The Dwarfs in the Mines
+
+Rufus realizes he needs money to get the help he needs. His journey to find money leads him deep into the forest, where he stumbles upon a hidden mine occupied by dwarfs. The dwarfs, skilled miners and craftsmen, promise to make Rufus rich if he agrees to stay and work for ten years.
+The dwarfs explain their terms to Rufus, offering him a chance to become wealthy beyond his wildest dreams. But the decision is not easy, and Rufus faces three choices:
+
+1. Stay and Work for 10 Years: Rufus could choose to stay and work hard, earning his fortune over the next decade.
+
+2. Kill the Dwarfs and Steal the Gold: Tempted by immediate riches, Rufus considers betraying the dwarfs and taking their gold by force.
+
+3. Leave the Mines: Unwilling to spend ten years in the mines or commit a terrible act, Rufus could decide to leave and seek another way to achieve his goal
+
+---
+
+### Scenario 2.2.2: The Drunk Stranger (Continued)
+
+If Rufus chooses to punch the stranger in the face: Rufus, driven by frustration and desperation, lashes out and punches the stranger. To his horror, the stranger swiftly stands, revealing a sharp dagger hidden beneath his cloak. "You shouldn't have done that," the stranger hisses, and before Rufus can react, the assassin strikes. The room grows dark, and Rufus's quest ends then and there. GAME OVER
+
+---
+
+### Scenario 2.2.3: (leaving taverne)
+
+If Rufus chooses to leave the taverne: Rufus decides that this dark and eerie place is not where he'll find his answers. He leaves the taverne, stepping back into the cold night air. He now has three choices:
+
+1. Search for Money: Rufus must find some money to buy a drink and get the information he needs.
+
+2. Visit the Witch: Perhaps some magic could aid Rufus in his quest.
+
+3. Visit the Devil: Desperate times call for desperate measures, and Rufus considers making a deal with the devil.

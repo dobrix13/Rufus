@@ -2,9 +2,7 @@
 
 Text based game console application written in c++
 
-scenario:
-
-## Title: Rufus (The Beggar's Quest)
+### scenario 1.0: Rufus (The Beggar's Quest)
 
 Introduction: Long, long, and longer time ago in a far, far, very far land, there lived a beggar named Rufus. He resided just outside the kingdom, in the woods, in a very poor wooden cabin. Despite his ragged clothes and humble life, Rufus had a heart full of dreams.
 
@@ -92,16 +90,17 @@ What will Rufus choose next?
 
 ### Scenario 2.2.1: The Dwarfs in the Mines
 
-Rufus realizes he needs money to get the help he needs. His journey to find money leads him deep into the forest, where he stumbles upon a hidden mine occupied by dwarfs. The dwarfs, skilled miners and craftsmen, promise to make Rufus rich if he agrees to stay and work for ten years.
-The dwarfs explain their terms to Rufus, offering him a chance to become wealthy beyond his wildest dreams. But the decision is not easy, and Rufus faces three choices:
+Rufus realizes he needs money to get the help he needs. His journey to find money leads him deep into the forest, where he stumbles upon a hidden mine occupied by dwarfs. The dwarfs, skilled miners and craftsmen, promise to make Rufus rich if he agrees to stay and work for them.
 
-1. Stay and Work for 10 Years: Rufus could choose to stay and work hard, earning his fortune over the next decade.
+The dwarfs explain their terms to Rufus, offering him a chance to become wealthy beyond his wildest dreams. But there’s a catch: they won't let him leave without fulfilling his work obligations. Rufus now faces a difficult decision and has three choices:
 
-2. Kill the Dwarfs and Steal the Gold: Tempted by immediate riches, Rufus considers betraying the dwarfs and taking their gold by force.
+1. Stay and Work for 10 Years: Rufus could choose to stay and work hard for ten years, earning one piece of gold.
 
-3. Leave the Mines: Unwilling to spend ten years in the mines or commit a terrible act, Rufus could decide to leave and seek another way to achieve his goal
+2. Stay and Work for 15 Years: Rufus could decide to work even longer, staying for fifteen years, to earn two pieces of gold.
 
----
+3. Kill the Dwarfs and Steal the Gold: Tempted by immediate riches, Rufus considers betraying the dwarfs and taking their gold by force.
+
+## What will Rufus choose next?
 
 ### Scenario 2.2.2: The Drunk Stranger (Continued)
 
@@ -118,3 +117,19 @@ If Rufus chooses to leave the taverne: Rufus decides that this dark and eerie pl
 2. Visit the Witch: Perhaps some magic could aid Rufus in his quest.
 
 3. Visit the Devil: Desperate times call for desperate measures, and Rufus considers making a deal with the devil.
+
+---
+
+### Scenario 1.1: Returning to Town
+
+After enduring many years in the mines and surviving the harsh conditions, Rufus finally returns to town as a rich man. However, wealth alone does not make him any more handsome, and he still faces the same challenges in winning Princess Isabella's heart.
+
+Despite his newfound riches, Rufus knows he must find another way to achieve his goal. He now has three choices:
+
+1. Visit the Taverne and Buy the Drink for the Stranger: Perhaps now, with money in his pockets, Rufus can buy the stranger a drink and discover the secret he promised.
+
+2. Visit the Witch: Maybe some magic could finally help Rufus in his quest to win the princess's heart.
+
+3. Visit the Devil: Desperate and willing to risk everything, Rufus considers making a deal with the devil to achieve his dreams.
+
+What will Rufus choose next?

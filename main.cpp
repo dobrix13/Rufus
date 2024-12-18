@@ -20,6 +20,7 @@
 #include <iostream>
 #include <string>
 #include <cstdlib>  // Include this for system function
+#define NUM_OF_QUESTS = 10
 
 using namespace std;
 
@@ -57,16 +58,18 @@ void showASCIILogo() {
 // Script class definition
 class Script {
 private:
-    std::string intro;
-    std::string outro;
-    std::string scenario1_option1;
-    std::string scenario1_option2;
-    std::string scenario1_option3;
+   string intro;
+   string outro;
+   string scenario1_description;
+   string scenario1_option1;
+   string scenario1_option2;
+   string scenario1_option3;
     // Add more text parts as needed
 
 public:
     Script() {
-        intro = "\tLong, long, and longer time ago in a far, far, very far land, there lived a beggar named Rufus.\nHe resided just outside the kingdom, in the woods, in a very poor wooden cabin.Despite his ragged clothes and humble life,\nRufus had a heart full of dreams.\n\n\tOne day, as he wandered near the castle, he saw the beautiful Princess Isabella and fell head over heels in love.\nHis heart pounded, and his vision blurred. Rufus knew, without a doubt, that he would do anything to win her heart.\nEven if it meant giving his soul to the devil.\n";
+        intro = "\tLong, long, and longer time ago in a far, far, very far land, there lived a beggar named Rufus.\nHe resided just outside the kingdom, in the woods, in a very poor wooden cabin.Despite his ragged clothes and humble life,\nRufus had a heart full of dreams.\n\n";
+        scenario1_description = "\tOne day, as he wandered near the castle, he saw the beautiful Princess Isabella and fell head over heels in love.\nHis heart pounded, and his vision blurred. Rufus knew, without a doubt, that he would do anything to win her heart.\nEven if it meant giving his soul to the devil.\n";
         scenario1_option1 = "Rufus decides to visit the taverne in the town.";
         scenario1_option2 = "Rufus visits the witch in search of some magic.";
         scenario1_option3 = "Rufus goes to the devil himself.";
@@ -74,35 +77,28 @@ public:
         // Initialize more text parts here
     }
 
-    std::string getIntro() const { return intro; }
-    std::string getOutro() const { return outro; }
-    std::string getScenario1Option1() const { return scenario1_option1; }
-    std::string getScenario1Option2() const { return scenario1_option2; }
-    std::string getScenario1Option3() const { return scenario1_option3; }
+   string getIntro() const { return intro; }
+   string getOutro() const { return outro; }
+   string getScenario1Option1() const { return scenario1_option1; }
+   string getScenario1Option2() const { return scenario1_option2; }
+   string getScenario1Option3() const { return scenario1_option3; }
     // Add more getters for other text parts
 
     // Method to handle quests
-    void handleQuest(int quest) const {
-        switch (quest) {
-            case 1:
-                std::cout << getScenario1Option1() << std::endl;
-                break;
-            case 2:
-                std::cout << getScenario1Option2() << std::endl;
-                break;
-            case 3:
-                std::cout << getScenario1Option3() << std::endl;
-                break;
-            default:
-                std::cout << "Invalid choice." << std::endl;
-                break;
-        }
+    void handleQuest(int scenario) const {
+        int new_scenario = 0;
+
+
+        return new_scenario;
     }
 };
 
 int main() {
     // Variables
-    int quests_completed = 1;
+    vector<int> quests_completed ={0};
+    int quests_started = 0;
+    bool exti_game = false;
+    int scenario = 1;
     Script script;
 
     // Clear screen and show ASCII logo
@@ -114,13 +110,23 @@ int main() {
     clearScreen();
 
     while (true) {
-        std::cout << script.getIntro() << std::endl;
+        // displays intro at the beginning of the game
+        if (quests_completed == 0  && quests_started = 0){
+           cout << script.getIntro() <<endl;
+            quests_started++;
+            sleep(50000);
+            clearScreen();
+        }else if (quests_started > 0 && exti_game == false ){
+            //main scenario1. should start here
+            scenario = handleQuest(scenario);
+        }
 
-        std::cin >> quests_completed;
+        
+
 
         // Exit game
-        if (quests_completed == 0) {
-            std::cout << script.getOutro() << std::endl; // script class needs to be created to organize quest texts.
+        if (quests_completed == 0 && quests_started != 0) {
+           cout << script.getOutro() <<endl; // script class needs to be created to organize quest texts.
             break;
         }
 

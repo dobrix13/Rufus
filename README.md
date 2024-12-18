@@ -10,19 +10,19 @@ Introduction: Long, long, and longer time ago in a far, far, very far land, ther
 
 One day, as he wandered near the castle, he saw the beautiful Princess Isabella and fell head over heels in love. His heart pounded, and his vision blurred. Rufus knew, without a doubt, that he would do anything to win her heart. Even if it meant giving his soul to the devil.
 
-_scene 1:_ The Beginnings of a Quest Determined to pursue his love, Rufus faces three choices:
+ 1.1 :_ The Beginnings of a Quest Determined to pursue his love, Rufus faces three choices:
 
-1. Visit the taverne in the town: Perhaps the rowdy crowd and a hearty ale will provide some useful advice or a way to get closer to the princess.
+1. Visit the taverne in the town: //1.2// Perhaps the rowdy crowd and a hearty ale will provide some useful advice or a way to get closer to the princess.
 
-2. Visit the witch in search of some magic: A sprinkle of magic might just be what Rufus needs to stand a chance. Surely the local witch would have some potion or spell to aid his cause.
+2. Visit the witch in search of some magic: //1.3// A sprinkle of magic might just be what Rufus needs to stand a chance. Surely the local witch would have some potion or spell to aid his cause.
 
-3. Go to the devil himself: Desperate times call for desperate measures. Will Rufus risk everything to make a deal with the devil?
+3. Go to the devil himself: //1.4// Desperate times call for desperate measures. Will Rufus risk everything to make a deal with the devil?
 
 The journey begins. What will Rufus choose?
 
 ---
 
-### Scenario 2: The Taverne
+### Scenario 1.2: The Taverne
 
 Rufus stepped into the taverne, expecting a lively and welcoming place. To his shock, he found himself in a dark and sinister den, and immediately, a chill runs down his spine. The place is dark and eerily quiet, with shadows dancing across the walls from the flickering candlelight. The air is thick with the stench of stale ale and something else—perhaps despair. In the far corner, hidden in the darkest shadow, sits a lone, drunken customer, muttering incoherently to himself.
 
@@ -30,17 +30,17 @@ The barkeeper, a burly man with a perpetual scowl, stands behind the counter wip
 
 Rufus knows he must proceed carefully in this unsettling place. He has three options:
 
-1.  Speak with the Barkeeper: Perhaps the grumpy barkeeper has some useful information or knows a way to get closer to the princess.
+1.  Speak with the Barkeeper: 1.2.1 Perhaps the grumpy barkeeper has some useful information or knows a way to get closer to the princess.
 
-2.  Speak with the Drunk Stranger: The lonely customer in the corner might have a tale or a clue to help Rufus in his quest.
+2.  Speak with the Drunk Stranger: 1.2.2 The lonely customer in the corner might have a tale or a clue to help Rufus in his quest.
 
-3.  Leave the Taverne: This place feels dangerous and unwelcoming. Maybe it's best to seek help elsewhere.
+3.  Leave the Taverne: 1.2.3 This place feels dangerous and unwelcoming. Maybe it's best to seek help elsewhere.
 
 What will Rufus choose next?
 
 ---
 
-### Scenario 2.1: The Barkeeper
+### Scenario 1.2.1: The Barkeeper
 
 Rufus, mustering all his courage, approached the barkeeper. The man behind the counter was as rude and ugly as his appearance suggested, and the smell emanating from him was enough to make anyone's eyes water.
 
@@ -54,17 +54,17 @@ Rufus's heart sank. He had hoped for some kindness, but it was clear that this m
 
 He had three choices:
 
-1. Speak with the Drunk Stranger: The lonely customer in the corner might have a tale or a clue to help Rufus in his quest.
+1. Speak with the Drunk Stranger: 1.2.2 The lonely customer in the corner might have a tale or a clue to help Rufus in his quest.
 
-2. Leave the Taverne: This place feels dangerous and unwelcoming. Maybe it's best to seek help elsewhere.
+2. Leave the Taverne: 1.2.3 This place feels dangerous and unwelcoming. Maybe it's best to seek help elsewhere.
 
-3. Go and Search for Money: Rufus needs to find some money to buy a drink and get the information he needs.
+3. Go and Search for Money: 1.2.4 Rufus needs to find some money to buy a drink and get the information he needs.
 
 What will Rufus choose next?
 
 ---
 
-### Scenario 2.2: The Drunk Stranger
+### Scenario 1.2.2: The Drunk Stranger
 
 Rufus, feeling both curiosity and caution, approached the lone figure in the darkest corner of the taverne. The stranger's head was hidden beneath a dark hood, and his face was obscured by shadows. As Rufus drew closer, he could hear the man muttering to himself, his words slurred and soaked in melancholy.
 
@@ -80,17 +80,17 @@ The stranger let out a bitter laugh, "Love, you say? A fool's errand, but maybe.
 
 Rufus had to decide how to respond. He had three options:
 
-1. Go and Search for Money: Rufus needs to find some money to buy a drink and get the information he needs.
+1. Go and Search for Money: 1.2.4 Rufus needs to find some money to buy a drink and get the information he needs.
 
-2. Punch the Stranger in the Face: Feeling frustrated and desperate, Rufus could resort to violence, though this might have consequences.
+2. Punch the Stranger in the Face: 1.2.5 Feeling frustrated and desperate, Rufus could resort to violence, though this might have consequences.
 
-3. Leave the Taverne: If Rufus felt uneasy about the situation, he could choose to thank the stranger and leave, searching for help elsewhere.
+3. Leave the Taverne: 1.2.3 If Rufus felt uneasy about the situation, he could choose to thank the stranger and leave, searching for help elsewhere.
 
 What will Rufus choose next?
 
 ---
 
-### Scenario 2.2.1: The Dwarfs in the Mines
+### Scenario 1.2.4: The Dwarfs in the Mines
 
 Rufus realizes he needs money to get the help he needs. His journey to find money leads him deep into the forest, where he stumbles upon a hidden mine occupied by dwarfs. The dwarfs, skilled miners and craftsmen, promise to make Rufus rich if he agrees to stay and work for them.
 
@@ -106,7 +106,7 @@ What will Rufus choose next?
 
 ---
 
-### Scenario 2.2.2: The Drunk Stranger (Continued)
+### Scenario 1.2.5: The Drunk Stranger (Continued)
 
 If Rufus chooses to punch the stranger in the face: Rufus, driven by frustration and desperation, lashes out and punches the stranger. To his horror, the stranger swiftly stands, revealing a sharp dagger hidden beneath his cloak. "You shouldn't have done that," the stranger hisses, and before Rufus can react, the assassin strikes. The room grows dark, and Rufus's quest ends then and there. GAME OVER
 

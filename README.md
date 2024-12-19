@@ -132,7 +132,7 @@ After enduring many years in the mines and surviving the harsh conditions, Rufus
 
 Despite his newfound riches, Rufus knows he must find another way to achieve his goal. He now has three choices:
 
-1. Visit the Taverne and Buy the Drink for the Stranger: 1.2.4.4 Perhaps now, with money in his pockets, Rufus can buy the stranger a drink and discover the secret he promised.
+1. Go back to the Taverne and Buy the Drink for the Stranger: 1.2.4.4 Perhaps now, with money in his pockets, Rufus can buy the stranger a drink and discover the secret he promised.
 
 2. Visit the Witch: 1.3 Maybe some magic could finally help Rufus in his quest to win the princess's heart.
 
@@ -142,7 +142,7 @@ What will Rufus choose next?
 
 ---
 
-### Scenario 1.2.6: Returning to the Taverne
+### Scenario 1.2.4.4: Returning to the Taverne
 
 Rufus, now a wealthy man after working tirelessly in the mines, returns to the taverne. The moment he steps through the door, the atmosphere feels different. The barkeeper, who was once cold and unfriendly, suddenly becomes very welcoming and eager to please.
 
@@ -156,13 +156,13 @@ Rufus, now with money in his pockets, faces three choices:
 
 2. Speak to the Stranger: 1.2.6.1 The mysterious figure in the corner might still hold the key to Rufus's quest.
 
-3. Exit the Taverne: 1.1 If Rufus feels this place has nothing more to offer, he can leave and seek help elsewhere.
+3. Exit the Taverne: 1.2.6 If Rufus feels this place has nothing more to offer, he can leave and seek help elsewhere.
 
 What will Rufus choose next?
 
 ---
 
-### Scenario 1.2.6.1: Returning to the Taverne (Continued)
+### Scenario 1.2.6.1: Returning to Stranger
 
 Rufus tries to speak to the stranger without buying a drink, the drunk stranger's demeanor turns deadly. Annoyed by the disturbance, the stranger suddenly springs to life, revealing a hidden dagger. With a swift and lethal strike, the stranger kills Rufus for disturbing him.
 
@@ -170,7 +170,7 @@ GAME OVER Rufus, you are never going to get her! Ha ha ha....
 
 ---
 
-### Scenario 2.2.2: Returning to the Stranger (Continued)
+### Scenario 2.2.2: Give drink to the Stranger
 
 "So, you're looking for some secret to earn a woman's heart, right?" the stranger asks, his voice dripping with sarcasm.
 

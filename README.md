@@ -3,6 +3,7 @@
 Text based game console application written in c++
 
 ---
+## Pathway 1:
 
 ### scenario 1.0: Rufus (The Beggar's Quest)
 

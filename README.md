@@ -188,13 +188,6 @@ Rufus has three choices:
 
 ---
 
-### Scenario 2.2.3.1
-
-What will Rufus choose next?Enraged by the stranger's cruel advice, Rufus could choose to retaliate violently.
-GAME OVER Rufus, you are never going to get her! Ha ha ha....
-
----
-
 ### End of the Taverne pathway
 
 1. Rufus decides to seek out the witch, hoping that magic might help him win Princess Isabella's heart. This starts the "Witch" pathway and finishes the "Taverne" pathway.

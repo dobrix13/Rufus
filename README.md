@@ -200,7 +200,13 @@ GAME OVER Rufus, you are never going to get her! Ha ha ha....
 1. Rufus decides to seek out the witch, hoping that magic might help him win Princess Isabella's heart. This starts the "Witch" pathway and finishes the "Taverne" pathway.
 2. Desperate and willing to risk everything, Rufus considers making a deal with the devil. This starts the "Devil" pathway and finishes the "Taverne" pathway.
 
-//draft:
+
+- - - -
+- - - -
+- - - - 
+
+
+//draft text to work: (do not red!)
 The Beggar's Quest
 Scenario 1: Introduction
 

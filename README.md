@@ -166,11 +166,11 @@ What will Rufus choose next?
 
 Rufus tries to speak to the stranger without buying a drink, the drunk stranger's demeanor turns deadly. Annoyed by the disturbance, the stranger suddenly springs to life, revealing a hidden dagger. With a swift and lethal strike, the stranger kills Rufus for disturbing him.
 
-GAME OVER Rufus, you are never going to get her! Ha ha ha....
+GAME OVER Rufus, You are never going to get her! Ha ha ha....
 
 ---
 
-### Scenario 2.2.2: Give drink to the Stranger
+### Scenario 1.2.6.2: Give drink to the Stranger
 
 "So, you're looking for some secret to earn a woman's heart, right?" the stranger asks, his voice dripping with sarcasm.
 
@@ -182,20 +182,25 @@ Rufus's heart sinks. He realizes that the stranger's advice is just as cruel and
 
 Rufus has three choices:
 
-1. Punch the Stranger in the Face: 1.2.5
+1. Punch the Stranger in the Face: 1.2.5 (Game Over!)
 
 2. Go to the Witch: 1.3
 
 3. Go to the Devil: 1.4
+
+What will Rufus choose next?
 
 ---
 
 ### End of the Taverne pathway
 
 1. Rufus decides to seek out the witch, hoping that magic might help him win Princess Isabella's heart. This starts the "Witch" (1.3) pathway and finishes the "Taverne" pathway.
+
 2. Desperate and willing to risk everything, Rufus considers making a deal with the devil. This starts the "Devil" (1.4) pathway and finishes the "Taverne" pathway.
 
 
 - - - -
+## pathway 2 coming soon...
 - - - -
+## Pathway 3 coming soon...
 - - - - 

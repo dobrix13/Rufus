@@ -10,13 +10,15 @@ Introduction: Long, long, and longer time ago in a far, far, very far land, ther
 
 One day, as he wandered near the castle, he saw the beautiful Princess Isabella and fell head over heels in love. His heart pounded, and his vision blurred. Rufus knew, without a doubt, that he would do anything to win her heart. Even if it meant giving his soul to the devil.
 
- 1.1 :_ The Beginnings of a Quest Determined to pursue his love, Rufus faces three choices:
+- - - -
 
-1. Visit the taverne in the town: //1.2// Perhaps the rowdy crowd and a hearty ale will provide some useful advice or a way to get closer to the princess.
+ ### scenario 1.1: The Beginnings of a Quest Determined to pursue his love, Rufus faces three choices:
 
-2. Visit the witch in search of some magic: //1.3// A sprinkle of magic might just be what Rufus needs to stand a chance. Surely the local witch would have some potion or spell to aid his cause.
+1. Visit the taverne in the town: 1.2 Perhaps the rowdy crowd and a hearty ale will provide some useful advice or a way to get closer to the princess.
 
-3. Go to the devil himself: //1.4// Desperate times call for desperate measures. Will Rufus risk everything to make a deal with the devil?
+2. Visit the witch in search of some magic: 1.3 A sprinkle of magic might just be what Rufus needs to stand a chance. Surely the local witch would have some potion or spell to aid his cause.
+
+3. Go to the devil himself: 1.4 Desperate times call for desperate measures. Will Rufus risk everything to make a deal with the devil?
 
 The journey begins. What will Rufus choose?
 
@@ -96,11 +98,11 @@ Rufus realizes he needs money to get the help he needs. His journey to find mone
 
 The dwarfs explain their terms to Rufus, offering him a chance to become wealthy beyond his wildest dreams. But there’s a catch: they won't let him leave without fulfilling his work obligations. Rufus now faces a difficult decision and has three choices:
 
-1. Stay and Work for 10 Years: Rufus could choose to stay and work hard for ten years, earning one piece of gold.
+1. Stay and Work for 10 Years: 1.2.4.1 Rufus could choose to stay and work hard for ten years, earning one piece of gold.
 
-2. Stay and Work for 15 Years: Rufus could decide to work even longer, staying for fifteen years, to earn two pieces of gold.
+2. Stay and Work for 15 Years: 1.2.4.2 Rufus could decide to work even longer, staying for fifteen years, to earn two pieces of gold.
 
-3. Kill the Dwarfs and Steal the Gold: Tempted by immediate riches, Rufus considers betraying the dwarfs and taking their gold by force.
+3. Kill the Dwarfs and Steal the Gold: 1.2.4.3 Tempted by immediate riches, Rufus considers betraying the dwarfs and taking their gold by force.
 
 What will Rufus choose next?
 
@@ -112,35 +114,35 @@ If Rufus chooses to punch the stranger in the face: Rufus, driven by frustration
 
 ---
 
-### Scenario 2.2.3: (leaving taverne)
+### Scenario 1.2.3: (leaving taverne)
 
 If Rufus chooses to leave the taverne: Rufus decides that this dark and eerie place is not where he'll find his answers. He leaves the taverne, stepping back into the cold night air. He now has three choices:
 
-1. Search for Money: Rufus must find some money to buy a drink and get the information he needs.
+1. Search for Money: 1.2.4 Rufus must find some money to buy a drink and get the information he needs.
 
-2. Visit the Witch: Perhaps some magic could aid Rufus in his quest.
+2. Visit the Witch: 1.3.0 Perhaps some magic could aid Rufus in his quest.
 
-3. Visit the Devil: Desperate times call for desperate measures, and Rufus considers making a deal with the devil.
+3. Visit the Devil: 1.4.0 Desperate times call for desperate measures, and Rufus considers making a deal with the devil.
 
 ---
 
-### Scenario 1.1: Returning to Town as a rich man
+### Scenario 1.2.6: Returning to Town as a rich man
 
 After enduring many years in the mines and surviving the harsh conditions, Rufus finally returns to town as a rich man. However, wealth alone does not make him any more handsome, and he still faces the same challenges in winning Princess Isabella's heart.
 
 Despite his newfound riches, Rufus knows he must find another way to achieve his goal. He now has three choices:
 
-1. Visit the Taverne and Buy the Drink for the Stranger: Perhaps now, with money in his pockets, Rufus can buy the stranger a drink and discover the secret he promised.
+1. Visit the Taverne and Buy the Drink for the Stranger: 1.2.4.4 Perhaps now, with money in his pockets, Rufus can buy the stranger a drink and discover the secret he promised.
 
-2. Visit the Witch: Maybe some magic could finally help Rufus in his quest to win the princess's heart.
+2. Visit the Witch: 1.3 Maybe some magic could finally help Rufus in his quest to win the princess's heart.
 
-3. Visit the Devil: Desperate and willing to risk everything, Rufus considers making a deal with the devil to achieve his dreams.
+3. Visit the Devil: 1.4 Desperate and willing to risk everything, Rufus considers making a deal with the devil to achieve his dreams.
 
 What will Rufus choose next?
 
 ---
 
-### Scenario 2.2.2: Returning to the Taverne
+### Scenario 1.2.6: Returning to the Taverne
 
 Rufus, now a wealthy man after working tirelessly in the mines, returns to the taverne. The moment he steps through the door, the atmosphere feels different. The barkeeper, who was once cold and unfriendly, suddenly becomes very welcoming and eager to please.
 
@@ -150,17 +152,17 @@ Despite the change in the barkeeper's demeanor, the drunk stranger still sits al
 
 Rufus, now with money in his pockets, faces three choices:
 
-1. Buy a Drink: With his new wealth, Rufus can buy a drink and finally get the information he needs from the barkeeper or the drunk stranger.
+1. Buy a Drink: 1.2.6.2 With his new wealth, Rufus can buy a drink and finally get the information he needs from the barkeeper or the drunk stranger.
 
-2. Speak to the Stranger: The mysterious figure in the corner might still hold the key to Rufus's quest.
+2. Speak to the Stranger: 1.2.6.1 The mysterious figure in the corner might still hold the key to Rufus's quest.
 
-3. Exit the Taverne: If Rufus feels this place has nothing more to offer, he can leave and seek help elsewhere.
+3. Exit the Taverne: 1.1 If Rufus feels this place has nothing more to offer, he can leave and seek help elsewhere.
 
 What will Rufus choose next?
 
 ---
 
-### Scenario 2.2.2.1: Returning to the Taverne (Continued)
+### Scenario 1.2.6.1: Returning to the Taverne (Continued)
 
 Rufus tries to speak to the stranger without buying a drink, the drunk stranger's demeanor turns deadly. Annoyed by the disturbance, the stranger suddenly springs to life, revealing a hidden dagger. With a swift and lethal strike, the stranger kills Rufus for disturbing him.
 
@@ -168,7 +170,7 @@ GAME OVER Rufus, you are never going to get her! Ha ha ha....
 
 ---
 
-### Scenario 2.2.2: Returning to the Taverne (Continued)
+### Scenario 2.2.2: Returning to the Stranger (Continued)
 
 "So, you're looking for some secret to earn a woman's heart, right?" the stranger asks, his voice dripping with sarcasm.
 
@@ -180,18 +182,18 @@ Rufus's heart sinks. He realizes that the stranger's advice is just as cruel and
 
 Rufus has three choices:
 
-1. Punch the Stranger in the Face:
+1. Punch the Stranger in the Face: 1.2.5
 
-2. Go to the Witch:
+2. Go to the Witch: 1.3
 
-3. Go to the Devil:
+3. Go to the Devil: 1.4
 
 ---
 
 ### End of the Taverne pathway
 
-1. Rufus decides to seek out the witch, hoping that magic might help him win Princess Isabella's heart. This starts the "Witch" pathway and finishes the "Taverne" pathway.
-2. Desperate and willing to risk everything, Rufus considers making a deal with the devil. This starts the "Devil" pathway and finishes the "Taverne" pathway.
+1. Rufus decides to seek out the witch, hoping that magic might help him win Princess Isabella's heart. This starts the "Witch" (1.3) pathway and finishes the "Taverne" pathway.
+2. Desperate and willing to risk everything, Rufus considers making a deal with the devil. This starts the "Devil" (1.4) pathway and finishes the "Taverne" pathway.
 
 
 - - - -

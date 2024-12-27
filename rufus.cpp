@@ -44,3 +44,8 @@ void showASCIILogo() {
 	cout << "\n\n\n";
 	cout << "Press Enter to start the game." << endl;
 }
+
+void showIntro(){
+	cout << "\tLong, long, and longer time ago in a far, far, very far land, there lived a beggar named Rufus. \nHe resided just outside the kingdom, in the woods, in a very poor wooden cabin. \nDespite his ragged clothes and humble life, Rufus had a heart full of dreams." << endl;
+	cout << endl << "Press Enter to continue...\n";
+}

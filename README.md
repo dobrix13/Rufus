@@ -8,12 +8,11 @@ Text based game console application written in c++
 
 Introduction: Long, long, and longer time ago in a far, far, very far land, there lived a beggar named Rufus. He resided just outside the kingdom, in the woods, in a very poor wooden cabin. Despite his ragged clothes and humble life, Rufus had a heart full of dreams.
 
-One day, as he wandered near the castle, he saw the beautiful Princess Isabella and fell head over heels in love. His heart pounded, and his vision blurred. Rufus knew, without a doubt, that he would do anything to win her heart. Even if it meant giving his soul to the devil.
-
-- - - -
-## Pathway 1:
+---
 
 ### scenario 1.1: The Beginnings of a Quest Determined to pursue his love, Rufus faces three choices:
+
+One day, as he wandered near the castle, he saw the beautiful Princess Isabella and fell head over heels in love. His heart pounded, and his vision blurred. Rufus knew, without a doubt, that he would do anything to win her heart. Even if it meant giving his soul to the devil.
 
 1. Visit the taverne in the town: 1.2 Perhaps the rowdy crowd and a hearty ale will provide some useful advice or a way to get closer to the princess.
 
@@ -24,6 +23,8 @@ One day, as he wandered near the castle, he saw the beautiful Princess Isabella 
 The journey begins. What will Rufus choose?
 
 ---
+
+## Pathway 1:
 
 ### Scenario 1.2: The Taverne
 
@@ -193,15 +194,30 @@ What will Rufus choose next?
 
 ---
 
+### Scenario 1.2.4.1 work for one peace
+
+The years passed, and Rufus toiled tirelessly in the mines. He dreamed of the day he would finally have his piece of gold and be able to change his life. After ten long years, the day finally came. The dwarfs handed Rufus a single, shining piece of gold as payment for his hard work.
+
+Rufus, filled with joy and hope, began his journey back to his cabin. However, his happiness was short-lived. As he made his way through the forest, a group of barbarian robbers ambushed him. They had heard of his piece of gold and were determined to take it from him.
+
+Rufus fought bravely to protect his only piece of gold, but he was outnumbered and overpowered. In the struggle, Rufus was fatally wounded. As he lay on the forest floor, clutching his piece of gold, his dreams slipped away. Rufus's journey had come to a tragic end.
+
+GAME OVER Rufus, You are never going to get her! Ha ha ha....
+
 ### End of the Taverne pathway
+
+---
 
 1. Rufus decides to seek out the witch, hoping that magic might help him win Princess Isabella's heart. This starts the "Witch" (1.3) pathway and finishes the "Taverne" pathway.
 
 2. Desperate and willing to risk everything, Rufus considers making a deal with the devil. This starts the "Devil" (1.4) pathway and finishes the "Taverne" pathway.
 
+---
 
-- - - -
 ## pathway 2 coming soon...
-- - - -
+
+---
+
 ## Pathway 3 coming soon...
-- - - - 
+
+---

@@ -6,3 +6,4 @@ void sleep(int milliseconds);
 void showASCIILogo();
 void showIntro();
 void showGameOver();
+void waitForKeyPress();

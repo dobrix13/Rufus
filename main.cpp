@@ -1,5 +1,5 @@
 #include <iostream>
-#include <conio.h> // for _getch()
+#include <limits>
 #include "Game.hpp"
 #include "Scenario.hpp"
 #include "Inventory.hpp"
@@ -11,11 +11,11 @@ void Game::start() {
     clearScreen();
     showASCIILogo();
 
-    _getch(); // Wait for a key press
+    waitForKeyPress(); // Wait for a key press
     clearScreen();
     showIntro();
 
-    _getch(); // Wait for another key press
+    waitForKeyPress(); // Wait for another key press
 
     while (!gameOver) {
         playScenario(currentScenario);
@@ -37,8 +37,7 @@ void Game::playScenario(int scenarioId) {
 
     if (input == "age") {
         cout << "Rufus's Age: " << age << endl;
-        cout << "Press any key to continue..." << endl;
-        _getch(); // Wait for a key press
+        waitForKeyPress(); // Wait for a key press
     } else {
         try {
             unsigned int choice = stoi(input);

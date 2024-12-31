@@ -53,3 +53,9 @@ void showASCIILogo() {
 	cout << "\n\n\n";
 	cout << "Press Enter to start the game." << endl;
 }
+
+
+void waitForKeyPress() {
+    //cout << "Press Enter to continue..." << endl;
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+}

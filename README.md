@@ -214,7 +214,21 @@ GAME OVER Rufus, You are never going to get her! Ha ha ha....
 
 ---
 
-## pathway 2 coming soon...
+## pathway Witch
+
+---
+
+### Scenario 2.1 In search of magic
+
+Rufus decided to visit the witch in search of some magic. However, as he asked the villagers about the exact location of the witch, he found out that nobody knew where she lived.
+The villagers only spoke of her in hushed tones, mentioning that she could be found across seven seas, seven mountains, or seven woods. Rufus had to make a choice on where to begin his search.
+What will Rufus choose next?
+
+1. Search across seven seas:
+
+2. Search across seven mountains:
+
+3. Search across seven woods:
 
 ---
 

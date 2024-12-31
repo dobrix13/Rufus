@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\rufus.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\rufus.dir/objects.a @CMakeFiles\rufus.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\rufus.dir/objects.a -Wl,--no-whole-archive -o rufus.exe -Wl,--out-implib,librufus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rufus.dir\linklibs.rsp

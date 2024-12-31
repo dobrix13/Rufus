@@ -9,21 +9,30 @@
     cout << " |_|   |_\_____/|_|      \_____(______/  " << endl;
 
 */
-
-
 #include "rufus.hpp"
+#include <chrono>
+#include <thread>
 using namespace std;
 
-// Function to clear the screen
 void clearScreen() {
-#ifdef _WIN32
-    system("cls");  // Command for Windows
-#else
-    system("clear");  // Command for UNIX-based systems
-#endif
+    // Platform-specific code to clear the screen
+    #ifdef _WIN32
+        system("cls");
+    #else
+        system("clear");
+    #endif
 }
 
-// Function to sleep
+void showIntro() {
+    std::cout << "Welcome to the adventure of Rufus!" << std::endl;
+    cout << "\tLong, long, and longer time ago in a far, far, very far land, there lived a beggar named Rufus. \nHe resided just outside the kingdom, in the woods, in a very poor wooden cabin. \nDespite his ragged clothes and humble life, Rufus had a heart full of dreams." << endl;
+	cout << endl << "Press Enter to continue...\n";
+}
+
+void showGameOver(){
+    cout << "You Loose ! \nYou are a looser and you never going to get her. \nHa ha ha haaa... " << endl;
+}
+
 void sleep(int milliseconds) {
 #ifdef _WIN32
     system(("timeout /t " + to_string(milliseconds / 1000) + " > nul").c_str());
@@ -43,13 +52,4 @@ void showASCIILogo() {
     cout << " |_|   |_\\_____/|_|      \\_____(______/  " << endl;
 	cout << "\n\n\n";
 	cout << "Press Enter to start the game." << endl;
-}
-
-void showIntro(){
-	cout << "\tLong, long, and longer time ago in a far, far, very far land, there lived a beggar named Rufus. \nHe resided just outside the kingdom, in the woods, in a very poor wooden cabin. \nDespite his ragged clothes and humble life, Rufus had a heart full of dreams." << endl;
-	cout << endl << "Press Enter to continue...\n";
-}
-
-void gameOver(){
-    cout << "You Loose ! \nYou are a looser and you never going to get her. \nHa ha ha haaa... " << endl;
 }

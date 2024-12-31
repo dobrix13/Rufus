@@ -1,0 +1,3 @@
+C:/Users/aldis/code/c++/Rufus/Rufus/build/CMakeFiles/rufus.dir
+C:/Users/aldis/code/c++/Rufus/Rufus/build/CMakeFiles/edit_cache.dir
+C:/Users/aldis/code/c++/Rufus/Rufus/build/CMakeFiles/rebuild_cache.dir

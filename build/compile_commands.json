@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/aldis/code/c++/Rufus/Rufus/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\rufus.dir\\main.cpp.obj -c C:\\Users\\aldis\\code\\c++\\Rufus\\Rufus\\main.cpp",
+  "file": "C:/Users/aldis/code/c++/Rufus/Rufus/main.cpp"
+},
+{
+  "directory": "C:/Users/aldis/code/c++/Rufus/Rufus/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\rufus.dir\\rufus.cpp.obj -c C:\\Users\\aldis\\code\\c++\\Rufus\\Rufus\\rufus.cpp",
+  "file": "C:/Users/aldis/code/c++/Rufus/Rufus/rufus.cpp"
+}
+]

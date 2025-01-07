@@ -15,7 +15,7 @@ void Game::start() {
     clearScreen();
     showIntro();
 
-    waitForKeyPress(); // Wait for another key press
+    waitForKeyPress();
 
     while (!gameOver) {
         playScenario(currentScenario);
@@ -31,13 +31,18 @@ void Game::playScenario(int scenarioId) {
     for (unsigned int i = 0; i < scenario.choices.size(); ++i) {
         cout << (i + 1) << ". " << scenario.choices[i] << endl;
     }
-    cout << endl << "Enter your choice (or type 'age' to see Rufus's age): ";
+    cout << endl << "What will Rufus choose next?" << endl;
+    cout << "Enter your choice\n(also you can type 'age' to see Rufus's age or 'exit' to exit the game): ";
     string input;
     cin >> input;
-
+    cin.ignore(numeric_limits<streamsize>::max(), '\n'); // Clear the input buffer
     if (input == "age") {
         cout << "Rufus's Age: " << age << endl;
-        waitForKeyPress(); // Wait for a key press
+        waitForKeyPress();
+    } else if(input == "exit"){
+        gameOver = true;
+        clearScreen();
+        showGameOver();
     } else {
         try {
             unsigned int choice = stoi(input);
@@ -59,7 +64,7 @@ void Game::playScenario(int scenarioId) {
             cout << "Invalid input. Try again." << endl;
         }
     }
-    clearScreen();
+    //clearScreen();
 }
 
 int main() {

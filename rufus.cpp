@@ -30,7 +30,7 @@ void showIntro() {
 }
 
 void showGameOver(){
-    cout << "You Loose ! \nYou are a looser and you never going to get her. \nHa ha ha haaa... " << endl;
+    cout << "You Loose ! \nYou are a looser, Rufus and you never going to get her. \nHa ha ha haaa... " << endl;
 }
 
 void sleep(int milliseconds) {
@@ -56,6 +56,6 @@ void showASCIILogo() {
 
 
 void waitForKeyPress() {
-    //cout << "Press Enter to continue..." << endl;
+    //cout << "Press any key to continue..." << endl;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 }
